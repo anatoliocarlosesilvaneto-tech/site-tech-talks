@@ -2,9 +2,6 @@ export enum Category {
   TECH = "Tecnologia",
   GAMES = "Games",
   HARDWARE = "Hardware",
-  REVIEWS = "Análises",
-  AI = "Inteligência Artificial",
-  TUTORIALS = "Tutoriais"
 }
 
 export interface Post {

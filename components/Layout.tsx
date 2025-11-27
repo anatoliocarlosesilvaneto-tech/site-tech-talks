@@ -132,7 +132,7 @@ export const Footer: React.FC = () => {
         <div className="text-center mb-8">
             <h2 className="font-display text-3xl font-bold text-white mb-4">TECH <span className="text-tech-accent">TALKS</span></h2>
             <p className="text-gray-400 text-sm max-w-md mx-auto">
-              O seu hub de tecnologia, jogos e hardware.
+              O seu site de tecnologia, jogos e hardware.
             </p>
         </div>
         
